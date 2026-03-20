@@ -1,0 +1,30 @@
+__pycache__
+.venv
+# Python programming files
+
+# json files for database
+children.json
+users.json
+parents.json
+volunteers.json
+
+# images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Environment variables
+.env
+.env.development
+.env.test
+.env.production
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+#vscode 
+.vscode/*
